@@ -1,0 +1,7 @@
+{
+  "name": "frontd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
